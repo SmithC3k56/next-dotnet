@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnMlq9OyCxkKsHOSXqTZ63F3eTxg0eu6BfbGiVu5a4uPlf1KChA8TxI+PXyijmk6lAoNa0B8QB2ah+OwZm8cdA==",
+  "success": true,
+  "projectFilePath": "/Users/mistersmith/Documents/NextJs/next-dotnet/api/MyApp.ServiceModel/MyApp.ServiceModel.csproj",
+  "expectedPackageFiles": [
+    "/Users/mistersmith/.nuget/packages/servicestack.interfaces/6.11.0/servicestack.interfaces.6.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
